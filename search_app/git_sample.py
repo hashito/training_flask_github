@@ -14,7 +14,7 @@ ENGINE_ID="エンジンIDを入れます"
 phrase = "tennis"
 #phrase = "テニス"
 #print(phrase)
-print(str(phrase))
+#print(str(phrase))
 cnt = 1 # 1:1~10位, 11:11~20位
 
 #リクエストURL
